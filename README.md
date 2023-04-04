@@ -1,4 +1,4 @@
-# Explict Writer
+# Explicit Writer
 Welcome to our writing services website! We offer a range of writing services to help you with all your writing needs. Whether you need help with a school assignment or want to create professional content for your business, we have you covered.
 ## Services
 We offer a wide range of writing services, including:
